@@ -1,5 +1,5 @@
 class script(object):
-    START_TEXT = """<b>🌟Hello I Am A Simple File Renamer Bot With Permanent Thumbnail upport🔧🔧.. I Can Rdname Your File So Esy❤️.¡
+    START_TEXT = """<b>🌟Hello I Am A Simple File Renamer Bot With Permanent Thumbnail support🔧🔧.. I Can Rename Your File So Esy❤️.¡
 
 <b>💎Send me any Telegram file and choose appropriate option💎 😇 Get A More Help Send👉 /help 👈command🌟..! </b>
 
@@ -20,7 +20,8 @@ class script(object):
     CUSTOM_CAPTION_UL_FILE = " "
     HELP_USER = """It's not that complicated😅
     
-1. Send me any Telegram File.
-2. Choose appropriate option.
+1. Send me any Telegram File.👨‍💻
+2. Choose appropriate option.👨‍💻
+
 😋This Bot Made By @Omindas ❤️🤔"""
 
